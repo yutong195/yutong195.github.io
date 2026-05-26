@@ -1,0 +1,85 @@
+.profile__sidebar {
+    text-align: left;
+    height: 100%;
+}
+
+.profile__sidebar_content {
+    padding-left: 1rem;
+}
+
+.profile__sidebar_img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    margin-left: 0;
+    padding-left: 0;
+    width: 80%;
+}
+
+.profile__sidebar_img_dim {
+    height: 75%;
+    width: 75%;
+}
+
+.profile__sidebar_name {
+    font-weight: 600;
+    margin-top: 1rem;
+}
+
+.profile__sidebar_list {
+    margin-top: 1rem;
+    list-style: none;
+    text-align: left;
+}
+
+.projects__separator_p {
+    margin-bottom: 0;
+}
+
+.projects__img {
+    display: block;
+    margin-right: auto;
+    border-radius: 5%;
+    margin-left: 0;
+    margin-top: 5px;
+    width: 100%;
+}
+
+.projects__info_list {
+    margin-top: 1rem;
+    list-style: none;
+    text-align: left;
+    padding-left: 0;
+}
+
+.projects__category_header {
+    margin-top: 1.5rem;
+}
+
+.projects__name_header {
+    font-size: 1.6rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-style: italic;
+}
+
+.projects__info_list_item {
+    display: inline-block;
+}
+
+.projects__info_list_item_nxt {
+    padding-left: 0.5rem;
+}
+
+.section-title {
+    font-size: 2rem;
+    font-weight: 500;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    color: #3d3d3d;
+}
+
+.author-me {
+    text-decoration: underline;
+}
